@@ -1,6 +1,6 @@
 ## Gmail URL Decoder
 
-Gmail URL Decoder is a python tool that can be used against plaintext or arbitrary raw data files in order to find, extract and decode information from Gmail URLs from both new and legacy interfaces.
+Gmail URL Decoder is an Open Source Python tool that can be used against plaintext or arbitrary raw data files in order to find, extract, and decode information from Gmail URLs related to both the new and legacy Gmail interfaces.
 
 ## Usage
 Run with python3 (properly tested on 3.6.7 version):
